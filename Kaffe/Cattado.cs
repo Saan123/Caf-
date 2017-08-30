@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Kaffe
 {
-    public class Class1
-    {
-    }
+	public class Cattado : Kaffe
+	{
+	}
 }
