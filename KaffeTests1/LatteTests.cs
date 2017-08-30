@@ -21,6 +21,6 @@ namespace Kaffe.Tests
 			int pris = latte.pris();
 
 			//Assert
-			Assert.AreEqual(40, pris);		}
+			Assert.AreEqual(40, pris);	}
 	}
 }
